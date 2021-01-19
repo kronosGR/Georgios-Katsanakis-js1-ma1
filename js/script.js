@@ -18,7 +18,6 @@ const cat = {
         console.log("Meow!");
     }
 }
-
 cat.complain();
 
 
